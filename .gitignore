@@ -55,9 +55,6 @@ $RECYCLE.BIN/
 *.lnk
 
 
-# cache foler
-.parcel-cache/
-node_modules/
 
 
 
